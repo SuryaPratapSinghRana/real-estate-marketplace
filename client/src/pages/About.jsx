@@ -6,7 +6,7 @@ export default function About() {
       <div className="max-w-5xl mx-auto text-center">
         {/* Heading */}
         <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 mb-6">
-          About <span className="text-indigo-600">Surya Estate</span>
+          About <span className="text-indigo-600">Vansh Estate</span>
         </h1>
 
         {/* Tagline */}
@@ -17,7 +17,7 @@ export default function About() {
         {/* Content */}
         <div className="bg-white shadow-lg rounded-2xl p-8 md:p-12 text-left space-y-6">
           <p className="text-slate-700 leading-relaxed">
-            <span className="font-semibold text-indigo-600">Surya Estate</span> is a leading real estate agency specializing in helping clients buy, sell, and rent properties in the most desirable neighborhoods. 
+            <span className="font-semibold text-indigo-600">Vansh Estate</span> is a leading real estate agency specializing in helping clients buy, sell, and rent properties in the most desirable neighborhoods. 
             Our team of experienced agents is dedicated to providing exceptional service and making the process as smooth as possible.
           </p>
 
@@ -28,7 +28,7 @@ export default function About() {
 
           <p className="text-slate-700 leading-relaxed">
             With years of industry experience, our team combines knowledge, passion, and commitment to deliver results that exceed expectations. 
-            At <span className="font-semibold text-indigo-600">Surya Estate</span>, we believe real estate should be an exciting and rewarding journey — and we’re dedicated to making that a reality for you.
+            At <span className="font-semibold text-indigo-600">Vansh Estate</span>, we believe real estate should be an exciting and rewarding journey — and we’re dedicated to making that a reality for you.
           </p>
         </div>
       </div>
