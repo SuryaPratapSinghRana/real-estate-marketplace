@@ -29,7 +29,7 @@ export default function Header() {
       <div className='flex justify-between items-center max-w-7xl mx-auto p-4'>
         <Link to='/'>
           <h1 className='font-bold text-lg sm:text-2xl flex items-center gap-1'>
-            <span className='text-blue-600 dark:text-blue-400'>Surya</span>
+            <span className='text-blue-600 dark:text-blue-400'>vansh</span>
             <span className='text-gray-800 dark:text-gray-200'>Estate</span>
           </h1>
         </Link>
